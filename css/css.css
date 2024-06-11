@@ -1,0 +1,211 @@
+body{
+    background-color: #ffff;
+}
+
+.navbar{
+    background-color: #ffff !important;
+    box-shadow: 5px 5px 5px #9a9a9a;
+}
+
+#navbarSupportedContent{
+    font-size: 1.5em;
+}
+
+.nav-item:hover{
+    font-weight: bold;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
+
+.pagina{
+    margin: 120px 20px;
+}
+
+.inicio{
+    font-family: 'Cardo', serif;
+    font-size: 2.5em
+}
+
+#marca{
+    font-size: 2.5em;
+}
+
+.titulo{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+h2{
+    margin-bottom: 20px;
+    margin-top: 40px;
+    text-align: left;
+}
+h3{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.centro{
+    display: inline-block;
+}
+
+.tit{
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+.b{
+    justify-content: center;
+    text-align: center;
+}
+
+.vinc{
+    background-color: #7f0000;
+    padding: 15px 25px;
+    border-radius: 30px;
+    font-size: 1.3em;
+    color: #ffff;
+    margin-top: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+
+footer{
+    background-color: #777777;  
+    padding: 15px;
+    text-align: center;
+    
+}
+.apps{
+    padding: 10px;
+}
+
+#copy{
+    text-align: center;
+    font-size: 1.4em;
+    margin: 10px;
+}
+
+div{
+    justify-content: center;
+    
+}
+
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 40px;
+    font-size: 1.15em
+}
+
+.pre{
+    text-align: center;
+    font-size: 1.3em;
+    margin-bottom: 25px;
+}
+
+.mar{
+    margin-bottom: 40px;
+}
+
+section article div label, section article div input, section article div textarea{
+    width: 100%;
+    outline: 0;
+}
+
+input{
+    border: none;
+    background-color: #ededed;
+    border-bottom: 1px solid black;
+
+}
+
+label{
+    font-size: 1.5em;
+    text-align: start;
+}
+
+form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.block{
+    grid-column: 1/3;
+    margin-top: 50px;
+}
+
+textarea{
+    resize: none;
+    background-color: #ededed;
+}
+
+.form-container{
+    width: 70%;
+    background-color:#ededed;
+    border: 15px solid #7f0000;
+    padding: 20px;
+}
+
+.enviar{
+    width: auto;
+    border: none;
+    background-color: #7f0000;
+    margin-top: -20px;
+    color: #fff;
+    padding: 20px 50px;
+    font-size: 1.5em;
+    border-radius: 50px;
+}
+
+.enviar:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+#fullname{
+    margin-top: 0;
+}
+
+#rec{
+    position:absolute;
+    width: 100% ;
+    bottom: 0;
+}
+
+#c{
+    font-size: 2em;
+    margin-bottom: 40px;
+}
+
+.carousel-inner img{
+width: 100%;
+height: 100%;
+}
+
+.t{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.e{
+    margin-top: 15px;
+}
+
+#con{
+    font-size: 2.3em;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
